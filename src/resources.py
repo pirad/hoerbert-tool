@@ -1,11 +1,12 @@
-# from https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Tree_Element.py
+# by https://www.iconfinder.com/andhikairfani
 folder_icon = (
     b"iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuElEQVQ4jWNgGHDwfzZTwb8ZzP9h+P9"
     b"M5g//Z/FoE23A3+lsDcgG/JvB/P//LNZr/xcxcJNtACH8fzZTAUUG/J3O1oBpwHzW///XshGHN3Me+H+Qp+H/fkEduA"
     b"H/t3D8/3+Qi0TMGw8xYBbz///7SdR8iOvv//1SIhADlrCSYTvPIXgY/N/ITroBh7mLIQbMYGv8v5eTdANO8KlCUuIKj"
     b"jmkO5/7Gjwa19UJXiDVgHVtwruITuo0BwBZFKmWeTQ5hwAAAABJRU5ErkJggg==="
 )
-# by https://www.iconfinder.com/andhikairfani
+
+# from https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Tree_Element.py
 file_icon = (
     b"iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsSAAALEgHS3X78AAABU0lEQ"
     b"VQ4y52TzStEURiHn/ecc6XG54JSdlMkNhYWsiILS0lsJaUsLW2Mv8CfIDtr2VtbY4GUEvmIZnKbZsY977Uwt2HcyW1+"
