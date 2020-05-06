@@ -1,4 +1,4 @@
-
+# from https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Tree_Element.py
 folder_icon = (
     b"iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuElEQVQ4jWNgGHDwfzZTwb8ZzP9h+P9"
     b"M5g//Z/FoE23A3+lsDcgG/JvB/P//LNZr/xcxcJNtACH8fzZTAUUG/J3O1oBpwHzW///XshGHN3Me+H+Qp+H/fkEduA"
