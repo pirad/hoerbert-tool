@@ -175,6 +175,7 @@ Folder Icon by https://www.iconfinder.com/andhikairfani
             ].InitialFolder = self.treeSelection[0]
         if self.updateTreeData:
             window["-TREE-"].update(self.treeData)
+            self.updateTreeData = False
 
 
 def __handleEvent(event, values, window, status):
